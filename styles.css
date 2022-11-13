@@ -1,0 +1,35 @@
+#features{
+    display: none;
+}
+body{
+    background:  #CCFFFF;
+}
+.feature-box{
+    margin-top: 7%;
+}
+#title{
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+#title{
+    display: block;
+}    
+    /* Features */
+
+#features{
+    display: block;
+    padding: 7% 15%;
+}
+.feature-box{
+    padding: 5%;
+    text-align: center;
+}
+
+.navbar 
+{
+    padding-bottom: 4.5rem;
+    padding: 0 0 4.5rem;
+}
+
+
+}
