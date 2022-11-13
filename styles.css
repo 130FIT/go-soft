@@ -1,16 +1,10 @@
-#features{
-    display: none;
-}
+
 body{
-    background:  #CCFFFF;
+    background:  #fff;
 }
 .feature-box{
     margin-top: 7%;
 }
-#title{
-    display: none;
-}
-@media only screen and (max-width: 600px) {
 #title{
     display: block;
 }    
@@ -23,13 +17,7 @@ body{
 .feature-box{
     padding: 5%;
     text-align: center;
-}
-
-.navbar 
-{
-    padding-bottom: 4.5rem;
-    padding: 0 0 4.5rem;
+    margin-left: 7%;
 }
 
 
-}
